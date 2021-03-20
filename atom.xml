@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>印着流星图案的本子</title>
+  
+  <subtitle>Blog</subtitle>
+  <link href="https://ryuusei.icu/atom.xml" rel="self"/>
+  
+  <link href="https://ryuusei.icu/"/>
+  <updated>2021-03-20T11:44:17.064Z</updated>
+  <id>https://ryuusei.icu/</id>
+  
+  <author>
+    <name>RyuUSeI</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Blog和新的开始</title>
+    <link href="https://ryuusei.icu/2021/03/19/Blog%E4%B8%8E%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+    <id>https://ryuusei.icu/2021/03/19/Blog%E4%B8%8E%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</id>
+    <published>2021-03-19T13:04:05.000Z</published>
+    <updated>2021-03-20T11:44:17.064Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>对于攀登者来说,失掉往昔的足迹并不可惜,迷失了继续前时的方向却很危险.</p></blockquote><h2 id="如梦初醒"><a href="#如梦初醒" class="headerlink" title="如梦初醒"></a>如梦初醒</h2><p>一日心血来潮,一直以来都以所谓“技术宅”自居的我,整理了一下自己到底有什么技术:</p><ul><li>掌握傻瓜式GUI软件的使用方式</li><li>会写HTML和YAML这样<strong>极其复杂</strong>的<strong>程序语言</strong></li><li>……</li></ul><p>没了…</p><p>我给手机刷上各种各样的ROM包,折腾各种各样的翻墙软件,刷着twitter和telegram,自满于在自己小圈子里所谓“IT专家”的称号.</p><p>与此同时,MDN上的CSS教程,在大半年里只看了一半.”学了”好几年的C语言,还是只能对着屏幕,敲出“Hello world”.</p><p>不知何时开始,我开始不能静下心学习.而只是满足于手中塞满的,价值极低的的知识碎片.这些碎片大都像“茴”字的四种写法一样,只能锦上添花,而无多大的实际意义.</p><h2 id="出Windows记"><a href="#出Windows记" class="headerlink" title="出Windows记"></a>出Windows记</h2><p>前一阵子格掉了系统的Windows分区,把Arch Linux作为日用系统. </p><p>UNIX系统的terminal十分好用,包管理系统Pacman也确实方便.但这些并不是我更换系统的原因.</p><p>说来可笑,我在硬盘上安装Linux系统的<strong>主要</strong>动力,只是“Linux用户”这个非常Geek范儿的头衔.</p><p>一天,当我看到AOSC OS官网上的一条Q&amp;A时,我找到了自己行为的最佳诠释:</p><blockquote><p>一些<strong>不建议</strong>你使用 AOSC OS 的场景</p><blockquote><p>你只是希望别人知道你在使用 AOSC OS。</p></blockquote></blockquote><p>X11有着比较严重的性能问题,而Wayland系统尚不完善.一次对wine的失败尝试,是压倒骆驼的最后一根稻草.</p><p>几个月的Linux之旅,除了美化桌面和几条简单的命令之外,我什么也没有学到.</p><h2 id="对前进阻力的受力分析"><a href="#对前进阻力的受力分析" class="headerlink" title="对前进阻力的受力分析"></a>对前进阻力的受力分析</h2><ul><li>我不愿走出自己的舒适圈,于是对任何东西都浅尝辄止.</li><li>我满足于简单的碎片知识,而没有对真理的求知精神.</li><li>我在无意义的细节上浪费了太多精力和时间.</li></ul><h2 id="尝试自救"><a href="#尝试自救" class="headerlink" title="尝试自救"></a>尝试自救</h2><p>经过一些尝试,我大致找到了解决问题的思路:</p><ul><li>对无关紧要的东西断舍离</li><li>强迫自己走出舒适圈</li></ul><p>我退掉了一些telegram群组,取关了一些twitter用户.精简掉了自己绝大多数的未来计划,并强制自己去做一直想做却拖着不做的事情.</p><p>开始这个Blog,就是这个计划的第一步.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;对于攀登者来说,失掉往昔的足迹并不可惜,迷失了继续前时的方向却很危险.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;如梦初醒&quot;&gt;&lt;a href=&quot;#如梦初醒&quot; class=&quot;headerlink&quot; title=&quot;如梦初醒&quot;&gt;&lt;/a&gt;如梦初醒</summary>
+      
+    
+    
+    
+    
+    <category term="随笔" scheme="https://ryuusei.icu/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开始写Blog!</title>
+    <link href="https://ryuusei.icu/2021/03/17/%E5%BC%80%E5%A7%8B%E5%86%99Blog!/"/>
+    <id>https://ryuusei.icu/2021/03/17/%E5%BC%80%E5%A7%8B%E5%86%99Blog!/</id>
+    <published>2021-03-17T14:21:48.000Z</published>
+    <updated>2021-03-20T11:44:38.459Z</updated>
+    
+    <content type="html"><![CDATA[<p>​                </p><p>折腾了两天,总算是把网站上线了.</p><p>暂时还没太想好要在这里写些什么,也许会写点学习笔记,也许会记下自己的一些思考.</p><p>事情的起源是看到了光子的<a href="https://legacy.lightquantum.me/posts/time-capsule/">这篇</a>博文,发现与过去的自己<del>对线</del>沟通,似乎是一件很有趣的事情(?).抱着”这种时光胶囊真是太cooooooooooooool了!”的想法开始了制作.得益于<a href="hexo.io">Hexo</a>与<a href="pages.github.com">GithubPages</a>两个项目,<del>除了因为忘记加CNAME文件导致域名解析失败之外</del>,整个过程都没遇到什么困难.</p><p>对这个blog有很多想法,但还只是在雏形阶段.想要按着自己的步调去一点点达成,祝我成功!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;​                &lt;/p&gt;
+&lt;p&gt;折腾了两天,总算是把网站上线了.&lt;/p&gt;
+&lt;p&gt;暂时还没太想好要在这里写些什么,也许会写点学习笔记,也许会记下自己的一些思考.&lt;/p&gt;
+&lt;p&gt;事情的起源是看到了光子的&lt;a href=&quot;https://legacy.light</summary>
+      
+    
+    
+    
+    
+    <category term="随笔" scheme="https://ryuusei.icu/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
